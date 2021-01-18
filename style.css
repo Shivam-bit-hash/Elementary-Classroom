@@ -1,0 +1,170 @@
+
+body{
+  font-family: 'Imbue', serif;
+}
+
+/* font-family: 'Oswald', sans-serif; for more heading */
+
+/* Title */
+#Title{
+  background-color: #949cdf;
+  padding-bottom: 5rem;
+}
+
+/* heading */
+h1{
+  font-size: 3.5rem;
+  color: white;
+  margin-top: 3.5rem;
+  /* font-family: 'Fraunces', serif; */
+  font-family: 'Oswald', sans-serif
+}
+
+
+
+/* IMAGE */
+.Logo-img{
+  width: 70%;
+  margin-left: 7rem;
+}
+
+/* navigation bar */
+
+.navbar-brand{
+  font-size: 2rem;
+}
+
+.navbar{
+  margin-bottom: 2rem;
+}
+
+.navbar-nav{
+  margin-right: 2rem;
+}
+
+.nav-link{
+  margin: 0 2rem 0 1rem;
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+
+.dropdown-item{
+  font-size: 1.5rem;
+  color: orange;
+}
+
+/* buttons */
+.btn{
+  margin-top: 3rem;
+}
+.btn-insta{
+  background-color: #ff577f;
+  color: white;
+  margin-left: 1rem;
+}
+.btn-insta:hover{
+  color: pink;
+}
+
+/* features */
+
+#features{
+  margin-top: 7rem;
+}
+
+.features{
+  padding: 1% 7% 1% 7%;
+  text-align: center;
+  margin-right: 0;
+}
+
+.features-paragraph{
+  line-height: 2;
+  color: grey;
+  font-size: 1rem;
+  margin-bottom: 1.5rem;
+}
+
+h2{
+  font-size: 3rem;
+  font-family: 'Oswald', sans-serif
+}
+
+.icon{
+    color: red;
+    margin-bottom: 2%;
+}
+
+.icon:hover{
+  color: #ff414d;
+}
+
+
+
+/* Highlights */
+
+#Highlights{
+  text-align: center;
+  margin-top: 7%;
+  background-color: #949cdf;
+  padding:3% 0 3% 0;
+}
+
+h3{
+  margin: 2% 0 2% 0;
+}
+
+.titlthighlights{
+  font-size: 4rem;
+  font-family: 'Oswald', sans-serif;
+  margin-bottom: 3rem;
+  color: white;
+}
+
+.span{
+  font-family: 'Fraunces', serif;
+}
+
+
+/* Slide-Show */
+#slide-show{
+  padding: 7% 14%;
+  text-align: center;
+  background-color: #ff7b54;
+  margin-top: 100px;
+
+}
+
+.slideclass{
+  line-height: 2;
+  font-size: 1.5rem;
+}
+
+h4{
+  font-size: 2rem;
+  font-family: 'Fraunces bold', serif;
+  margin-bottom: 1rem;
+}
+
+/* contact-me */
+
+#contact-me{
+  background-color: #000;
+  padding: 7% 14%;
+  text-align: center;
+}
+
+.contact-me{
+  margin: 0 4%;
+  font-size: 1.5rem;
+  color: white;
+  text-decoration: none;
+}
+
+.para{
+  margin-top: 2%;
+}
+
+.contact-me:hover{
+  color: #949cdf;
+}
